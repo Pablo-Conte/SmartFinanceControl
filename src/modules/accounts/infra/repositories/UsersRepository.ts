@@ -30,7 +30,7 @@ class UsersRepository {
         id_e: true,
         email: true,
         name: true,
-      }
+      },
     });
     return userFound;
   }
